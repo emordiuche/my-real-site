@@ -1,0 +1,25 @@
+[03-Jun-2019 10:18:58 UTC] PHP Warning:  Division by zero in /home/morezxzd/www.ownahome.ng/wp-content/plugins/testimonial-rotator/testimonial-rotator.php on line 654
+[03-Jun-2019 10:42:20 UTC] PHP Warning:  Division by zero in /home/morezxzd/www.ownahome.ng/wp-content/plugins/testimonial-rotator/testimonial-rotator.php on line 654
+[03-Jun-2019 10:46:24 UTC] PHP Warning:  Division by zero in /home/morezxzd/www.ownahome.ng/wp-content/plugins/testimonial-rotator/testimonial-rotator.php on line 654
+[05-Jun-2019 15:28:11 UTC] PHP Fatal error:  Call to a member function is_block_editor() on null in /home/morezxzd/www.ownahome.ng/wp-content/plugins/gutenberg/lib/widgets.php on line 15
+[05-Jun-2019 15:28:27 UTC] PHP Fatal error:  Call to a member function is_block_editor() on null in /home/morezxzd/www.ownahome.ng/wp-content/plugins/gutenberg/lib/widgets.php on line 15
+[09-Jun-2019 11:34:34 UTC] PHP Warning:  Division by zero in /home/morezxzd/www.ownahome.ng/wp-content/plugins/testimonial-rotator/testimonial-rotator.php on line 654
+[14-Jun-2019 00:40:30 UTC] PHP Fatal error:  Call to a member function is_block_editor() on null in /home/morezxzd/www.ownahome.ng/wp-content/plugins/gutenberg/lib/widgets.php on line 15
+[19-Aug-2019 02:59:17 UTC] PHP Warning:  sprintf(): Too few arguments in /home/morezxzd/www.ownahome.ng/wp-admin/includes/class-bulk-upgrader-skin.php on line 153
+[07-Sep-2019 00:16:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/morezxzd/www.ownahome.ng/wp-content/plugins/schema-and-structured-data-for-wp/admin_section/structure_admin.php on line 1545
+[09-Sep-2019 01:55:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/morezxzd/www.ownahome.ng/wp-content/plugins/schema-and-structured-data-for-wp/admin_section/structure_admin.php on line 1545
+[18-Sep-2019 03:29:11 UTC] store id 5cf6f71581b35 has been deleted MailChimp
+[14-Dec-2019 23:41:46 UTC] PHP Fatal error:  Class 'Automattic\Jetpack\Roles' not found in /home/morezxzd/www.ownahome.ng/wp-content/plugins/jetpack/vendor/automattic/jetpack-sync/src/Listener.php on line 272
+[23-Dec-2019 09:55:35 UTC] PHP Parse error:  syntax error, unexpected 'crossorigin' (T_STRING) in /home/morezxzd/www.ownahome.ng/wp-content/themes/business-pro-theme/functions.php on line 224
+[23-Dec-2019 09:56:05 UTC] PHP Parse error:  syntax error, unexpected 'wp_localize_script' (T_STRING) in /home/morezxzd/www.ownahome.ng/wp-content/themes/business-pro-theme/functions.php on line 227
+[23-Dec-2019 09:57:23 UTC] PHP Parse error:  syntax error, unexpected 'wp_localize_script' (T_STRING) in /home/morezxzd/www.ownahome.ng/wp-content/themes/business-pro-theme/functions.php on line 227
+[23-Dec-2019 09:58:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/morezxzd/www.ownahome.ng/wp-content/themes/business-pro-theme/functions.php on line 262
+[23-Dec-2019 10:09:31 UTC] PHP Parse error:  syntax error, unexpected 'crossorigin' (T_STRING) in /home/morezxzd/www.ownahome.ng/wp-content/themes/business-pro-theme/functions.php on line 201
+[23-Dec-2019 10:10:29 UTC] PHP Parse error:  syntax error, unexpected 'crossorigin' (T_STRING) in /home/morezxzd/www.ownahome.ng/wp-content/themes/business-pro-theme/functions.php on line 202
+[23-Dec-2019 10:11:23 UTC] PHP Parse error:  syntax error, unexpected 'crossorigin' (T_STRING) in /home/morezxzd/www.ownahome.ng/wp-content/themes/business-pro-theme/functions.php on line 202
+[23-Dec-2019 10:12:29 UTC] PHP Parse error:  syntax error, unexpected 'crossorigin' (T_STRING) in /home/morezxzd/www.ownahome.ng/wp-content/themes/business-pro-theme/functions.php on line 259
+[23-Dec-2019 10:13:13 UTC] PHP Parse error:  syntax error, unexpected 'crossorigin' (T_STRING) in /home/morezxzd/www.ownahome.ng/wp-content/themes/business-pro-theme/functions.php on line 259
+[23-Dec-2019 10:21:35 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/morezxzd/www.ownahome.ng/wp-content/themes/business-pro-theme/functions.php on line 259
+[23-Dec-2019 10:21:54 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/morezxzd/www.ownahome.ng/wp-content/themes/business-pro-theme/functions.php on line 259
+[23-Dec-2019 10:22:10 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/morezxzd/www.ownahome.ng/wp-content/themes/business-pro-theme/functions.php on line 259
+[23-Dec-2019 10:32:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/morezxzd/www.ownahome.ng/wp-content/themes/business-pro-theme/functions.php on line 260
